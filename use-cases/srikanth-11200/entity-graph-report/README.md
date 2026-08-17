@@ -124,6 +124,10 @@ This public package intentionally contains only the SuperDocs-facing integration
 
 It does not require the DocTask backend, PostgreSQL, LangGraph, Groq, ChromaDB, or any other DocTask service.
 
+## Screenshot
+
+![SuperDocs Entity Graph Report](./screenshot.png)
+
 ## Assignment
 
-Built for the **SuperDocs Task 2 assignment**.
+Built by **Srikanth** for the **SuperDocs Task 2 engineering assignment**.
